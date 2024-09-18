@@ -3,14 +3,14 @@ import { v4 as uuidv4 } from "uuid";
 function chillHop() {
   return [
     {
-      name: "Someone will love you better",
-      artist: "Johnny Orlando",
+      name: " Dj Kalah Style JDM",
+      artist: " VilkyYT ",
       // audio: "https://cdn.pixabay.com/audio/2023/06/06/audio_cbcfcb18e6.mp3", // ! this is working fine
-      audio: "audio/song1.mp3", //--- Not working
-      cover: "https://i.scdn.co/image/ab67616d00001e02cbd44edafad681c71eb0d469",
+      audio: "https://raw.githubusercontent.com/Farhans4you/database/main/media/kalqhan.mp3", //--- Not working
+      cover: "https://raw.githubusercontent.com/Farhans4you/database/main/media/Kalah.png",
       id: uuidv4(),
       active: true,
-      color: ["#C7866E", "#743D2D"],
+      color: ["#FFFFFF", "#FFFFFF"],
     },
 
     {
