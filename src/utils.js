@@ -3,24 +3,24 @@ import { v4 as uuidv4 } from "uuid";
 function chillHop() {
   return [
     {
-      name: " Dj Kalah Style JDM",
-      artist: " VilkyYT ",
+      name: "Dj Kalah Style JDM",
+      artist: "VilkyYT",
       // audio: "https://cdn.pixabay.com/audio/2023/06/06/audio_cbcfcb18e6.mp3", // ! this is working fine
       audio: "https://raw.githubusercontent.com/Farhans4you/database/main/media/kalqhan.mp3", //--- Not working
       cover: "https://raw.githubusercontent.com/Farhans4you/database/main/media/Kalah.png",
       id: uuidv4(),
       active: true,
-      color: ["#FFFFFF", "#FFFFFF"],
+      color: ["#414141", "#BEBEBE"],
     },
 
     {
-      name: "Silence",
-      artist: "Marshmello",
-      cover: "https://i.scdn.co/image/ab67616d00001e02f33ba583059dc2f7d08bf2b8",
+      name: "Dj Vilky Ganct",
+      artist: "Farhans Fvndy",
+      cover: "https://j.top4top.io/p_3183wt6nm0.jpg",
       id: uuidv4(),
       active: false,
       color: ["#414141", "#BEBEBE"],
-      audio: "audio/Silence.mp3",
+      audio: "https://g.top4top.io/m_3183gitzv0.mp3",
     },
 
     {
