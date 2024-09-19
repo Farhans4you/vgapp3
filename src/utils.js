@@ -3,6 +3,15 @@ import { v4 as uuidv4 } from "uuid";
 function chillHop() {
   return [
     {
+      name: "Dj Kurang Puas Viral ( teaster )",
+      artist: "Vilky YT ft. Cantika Yt",
+      audio: "https://f.top4top.io/m_3183oeeht0.mp3",
+      cover: "https://b.top4top.io/p_31837o7ch0.png",
+      id: uuidv4(),
+      active: true,
+      color: ["#60302E", "#CFC1B4"]
+    },
+    {
       name: "Dj Kalah Style JDM",
       artist: "VilkyYT",
       // audio: "https://cdn.pixabay.com/audio/2023/06/06/audio_cbcfcb18e6.mp3", // ! this is working fine
